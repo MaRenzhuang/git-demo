@@ -4,5 +4,5 @@
  */
 public class Git {
     private String name;
-    private String pwd;
+    private String pwd1;
 }
